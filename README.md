@@ -2,7 +2,7 @@
 - ✨ I’m interested in web-development
 - 🌱 I’m currently learning NodeJs, Express
 - 🔥 My stack ReactJS, JavaScript, Redux, NextJS, HTML, CSS, CSS-preprocessors, MongoDB, NodeJS, Epress.
-- 🌐 My old gitHub account https://github.com/innazozulia-zz
+- 🌐 My old GitHub account (lost access)  https://github.com/innazozulia-zz
 - 📫 For quick communication innazozulia@outlook.com
 
 <!---
