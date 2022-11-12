@@ -1,5 +1,3 @@
-![birminghammuseumstrust--IAS_N85adA](https://user-images.githubusercontent.com/117219185/201488651-1a8a3a5d-7c38-4926-9671-3e6febcd3285.jpg)
-
 
 - 👋 Hi, I’m @innazozulia
 - ✨ I’m interested in web-development
