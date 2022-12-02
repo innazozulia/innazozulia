@@ -3,7 +3,7 @@
 - ✨ I’m interested in web-development
 - 🌱 I’m currently learning NodeJs, Express
 
-- 🔥 My stack ReactJS, JavaScript, Redux,  NodeJS, Epress, NextJS, HTML, CSS, CSS-preprocessors, MongoDB, MySQL.
+- 🔥 My stack ReactJS, JavaScript, Redux,  NodeJS, Epress, NextJS, HTML, CSS, CSS-preprocessors, MongoDB, MySQL, Strapi CMS.
 
 - 👉 My new site portfolio https://personal-portfolio-dun-two.vercel.app/
 - 💻 View my works https://innazozulia-cv.vercel.app/
